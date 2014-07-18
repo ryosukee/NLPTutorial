@@ -1,0 +1,13 @@
+Accuracy: 98.97% (4516/4563)
+
+Most common mistakes:
+NN --> NNP	9
+RB --> IN	3
+NNP --> NN	3
+. --> IN	3
+'' --> DT	3
+VBG --> NN	3
+IN --> RB	3
+CD --> PRP	3
+VBP --> VB	2
+CC --> DT	2

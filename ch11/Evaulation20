@@ -1,0 +1,13 @@
+Accuracy: 89.31% (4075/4563)
+
+Most common mistakes:
+NN --> JJ	47
+NNS --> NN	41
+NN --> NNS	29
+NN --> VBN	17
+JJ --> VBN	15
+NN --> NNP	12
+JJ --> NNS	10
+VBN --> NN	10
+NN --> VBG	8
+RB --> JJ	8

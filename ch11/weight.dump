@@ -1,0 +1,83 @@
+(dp0
+S'T:<s> Z'
+p1
+F0.0
+sS'T:<s> X'
+p2
+F1.0
+sS'T:<s> Y'
+p3
+F-1.0
+sS'CAPS:Z'
+p4
+F0.0
+sS'CAPS:Y'
+p5
+F0.0
+sS'CAPS:X'
+p6
+F0.0
+sS'T:Y </s>'
+p7
+F0.0
+sS'T:Y Z'
+p8
+F1.0
+sS'T:Y X'
+p9
+F-1.0
+sS'T:Y Y'
+p10
+F-2.0
+sS'T:X Z'
+p11
+F0.0
+sS'T:X Y'
+p12
+F1.0
+sS'T:X X'
+p13
+F1.0
+sS'T:Z </s>'
+p14
+F1.0
+sS'E:Z a'
+p15
+F2.0
+sS'E:Z b'
+p16
+F-1.0
+sS'E:Z c'
+p17
+F0.0
+sS'E:Y c'
+p18
+F-1.0
+sS'E:Y b'
+p19
+F1.0
+sS'E:Y a'
+p20
+F-2.0
+sS'T:Z Y'
+p21
+F0.0
+sS'T:Z X'
+p22
+F0.0
+sS'T:Z Z'
+p23
+F0.0
+sS'E:X b'
+p24
+F0.0
+sS'E:X c'
+p25
+F1.0
+sS'T:X </s>'
+p26
+F-1.0
+sS'E:X a'
+p27
+F0.0
+s.
