@@ -4,7 +4,7 @@ This is the tutorial of NLP programing at [Graham Neubig - チュートリアル
 
 [Graham Neubig - チュートリアル資料]:http://www.phontron.com/teaching.php?lang=ja
 
-And I stading at [marujirou ブログ][]
+And I studying at [marujirou ブログ][]
 
 [marujirou ブログ]: http://marujirou.hatenablog.com
 
