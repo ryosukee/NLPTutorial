@@ -39,6 +39,7 @@ def getArgs():
 def count_words():
     """
     counting the words
+    @return (all_count, words_count) number of token, number of each words dict
     """
     all_count = 0
     words_count = dict()
