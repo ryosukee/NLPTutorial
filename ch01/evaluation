@@ -1,2 +1,3 @@
-entropy = 10.526656
-coverage = 0.895226
+entropy : 10.526656
+perplexity : 1475.160635
+coverage : 0.895226
