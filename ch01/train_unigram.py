@@ -4,7 +4,7 @@ import sys
 import argparse
 
 """
-train the language model
+train the unigram language model
 """
 __author__ = "marujirou"
 __version__ = "1.0"
@@ -15,7 +15,7 @@ def getArgs():
     """
     optional argument setting
     """
-    parser = argparse.ArgumentParser(description="train the language model")
+    parser = argparse.ArgumentParser(description="train the unigram language model")
 
     parser.add_argument(
         "-f", "--input",
