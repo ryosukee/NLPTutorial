@@ -63,9 +63,6 @@ def output_lm(all_count, words_count):
 
 
 def main():
-    """
-    main method
-    """
     all_count, words_count = count_words()
     output_lm(all_count, words_count)
 
