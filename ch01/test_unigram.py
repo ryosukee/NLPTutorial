@@ -89,9 +89,6 @@ def calc_eval(pml, lam, N):
 
 
 def main():
-    """
-    main method
-    """
     # type of words include unknown words
     N = 10**6
     # interpolation coefficient of unigram
