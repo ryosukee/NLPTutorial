@@ -69,9 +69,8 @@ def perceptron(arg, margin, c):
             string = line.strip().split("\t")[1]
             label = int(line.strip().split("\t")[0])
             features = create_features(string)
-            if label != predict(features, weight):
-                if sum(weight[name] * features[name] * label for name in features.keys()) <= margin:
-                    weight = update_weight(features, weight, label, c)
+            if sum(weight[name] * features[name] for name in features.keys()) * label <= margin:
+                weight = update_weight(features, weight, label, c)
     return weight
 
 if __name__ == "__main__":
